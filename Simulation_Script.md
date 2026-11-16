@@ -5,6 +5,7 @@
 **Format:** Idea C (mixed): role-play with props, plus a live WSL Ubuntu demo and the `fs_sim.py` simulator
 **Length:** 10 minutes (inside the 30-minute slot: 15 teaching, **10 simulation**, 5 questions)
 **Reference:** Silberschatz, Galvin & Gagne, *Operating System Concepts*, 10th ed., Chapter 14
+https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf
 
 ---
 
